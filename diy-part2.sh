@@ -19,4 +19,4 @@
 # Modify hostname
 #sed -i 's/OpenWrt/P3TERX-Router/g' package/base-files/files/bin/config_generate
 # MT7981
-cp -f defconfig/mt7981-ax3000.config .config
+#cp -f defconfig/mt7981-ax3000.config .config
