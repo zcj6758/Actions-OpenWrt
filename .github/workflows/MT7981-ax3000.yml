@@ -17,7 +17,7 @@ on:
   workflow_dispatch:
 
 env:
-  REPO_URL: https://github.com/hchyhchyxh/immortalwrt-mt798x.git
+  REPO_URL: https://github.com/wuzhihang123/immortalwrt-mt798x.git
   REPO_BRANCH: openwrt-21.02
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: configs/MT7981-ax3000.config
